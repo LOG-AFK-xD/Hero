@@ -105,7 +105,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "If you dont know this, Leave as it is",
-      "value": "https://github.com/CandyMusic/Hero",
+      "value": "https://github.com/log_afk_xd/Hero",
       "required": true
     },
     "UPSTREAM_BRANCH": {
